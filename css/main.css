@@ -1,4 +1,4 @@
-/*! HTML5 Boilerplate v7.1.0 | MIT License | https://html5boilerplate.com/ */
+./*! HTML5 Boilerplate v7.1.0 | MIT License | https://html5boilerplate.com/ */
 
 /* main.css 1.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
 /*
@@ -103,7 +103,13 @@ textarea {
    ========================================================================== */
 
 
+.costum-font-heading{
+  font-family: 'Arvo', serif;
+}
 
+.costum-font-copy{
+font-family: 'ZCOOL XiaoWei', serif;
+}
 
 
 
